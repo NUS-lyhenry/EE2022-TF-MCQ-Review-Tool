@@ -2,6 +2,16 @@
 
 A Streamlit-based conceptual quiz tool for EE2022 revision. It includes True/False and multiple-choice conceptual questions covering AC power, three-phase systems, generators, transformers, per-unit analysis, transmission lines, induction motors, renewable energy integration, and electricity cost concepts.
 
+## Screenshots
+
+### Quiz setup
+
+![EE2022 Concept Quiz setup screen](docs/images/quiz-start.png)
+
+### MCQ feedback
+
+![Multiple-choice question feedback with answer explanation](docs/images/mcq-feedback.png)
+
 ## Files
 
 - `ee2022_concept_quiz.py` — question bank and command-line quiz version
