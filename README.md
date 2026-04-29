@@ -2,6 +2,8 @@
 
 A Streamlit-based conceptual quiz tool for EE2022 revision. It includes True/False and multiple-choice conceptual questions covering AC power, three-phase systems, generators, transformers, per-unit analysis, transmission lines, induction motors, renewable energy integration, and electricity cost concepts.
 
+If this tool helps with your EE2022 revision, please consider giving the repository a ⭐ Star. It helps other students find it more easily and lets me know the tool is useful.
+
 ## Screenshots
 
 ### Quiz setup
